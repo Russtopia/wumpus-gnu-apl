@@ -30,4 +30,4 @@ As found on [RosettaCode](https://rosettacode.org/wiki/Hunt_The_Wumpus/APL).
 >Nearby bat: "You hear a rustling."
 >Nearby pit: "You feel a cold wind blowing from a nearby cavern."
 >
->When the player shoots, he wins the game if he is shooting in the room with the Wumpus. If he shoots into another room, the Wumpus has a 75% of chance of waking >up and moving into an adjacent room: if this is the room with the player, he eats him up and the game is lost.
+>When the player shoots, he wins the game if he is shooting in the room with the Wumpus. If he shoots into another room, the Wumpus has a 75% of chance of waking up and moving into an adjacent room: if this is the room with the player, he eats him up and the game is lost.
