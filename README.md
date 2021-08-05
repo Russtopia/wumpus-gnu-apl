@@ -5,6 +5,10 @@ A good intro on how to do basic user interaction in [GNU APL](https://www.gnu.or
 
 As found on [RosettaCode](https://rosettacode.org/wiki/Hunt_The_Wumpus/APL).
 
+For reference, a publication in [The Best of Creative Computing, Vol. 1, 1976](https://www.atariarchives.org/bcc1/showpage.php?page=247) gives a good description of the game.
+
+The rules and implementation *may* not be 100% original according to discussions on RosettaCode, but it's close enough :)
+
 >The rules are:
 >
 >The game is set in a cave that consists of a 20 room labyrinth. Each room is connected to 3 other rooms (the cave is modeled after the vertices of a >dodecahedron). The objective of the player is to find and kill the horrendous beast Wumpus that lurks in the cave.
