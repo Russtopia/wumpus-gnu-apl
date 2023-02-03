@@ -1,5 +1,7 @@
-# wumpus-gnu-apl
+## wumpus-gnu-apl
 'Hunt the Wumpus', as found in More BASIC Computer Games, ported to GNU APL.
+
+![wumpus-squashed-dodecahedron.jpg](wumpus-squashed-dodecahedron.jpg)
 
 A good intro on how to do basic user interaction in [GNU APL](https://www.gnu.org/software/apl/) (and perhaps [Dyalog](https://www.dyalog.com), with some adaptations).
 
